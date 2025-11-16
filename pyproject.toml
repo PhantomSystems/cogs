@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "basedpyright>=1.33.0",
+    "discord-py>=2.6.4",
+    "dotenv>=0.9.9",
+    "pipx>=1.8.0",
+    "poetry>=2.2.1",
+]
