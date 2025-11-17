@@ -5,7 +5,7 @@
     "nixd@latest",
     "nil@latest",
     "python@latest",
-    "poetry@latest",
+    "poetry@1.8.5",
     "uv@latest"
   ],
   "shell": {
