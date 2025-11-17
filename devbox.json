@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.2/.schema/devbox.schema.json",
   "packages": [
-    "nix@latest",
-    "nixd@latest",
+    "nix@2.32.3",
+    "nixd@2.7.0",
     "nil@latest",
     "python@latest",
-    "poetry@latest",
-    "uv@latest"
+    "poetry@1.8.5",
+    "uv@0.8.23"
   ],
   "shell": {
     "init_hook": [
