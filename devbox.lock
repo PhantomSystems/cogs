@@ -149,51 +149,51 @@
         }
       }
     },
-    "nixd@latest": {
-      "last_modified": "2025-10-22T20:59:19Z",
-      "resolved": "github:NixOS/nixpkgs/01b6809f7f9d1183a2b3e081f0a1e6f8f415cb09#nixd",
+    "nixd@1.2.3": {
+      "last_modified": "2024-04-19T21:36:04Z",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#nixd",
       "source": "devbox-search",
-      "version": "2.7.0",
+      "version": "1.2.3",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/5k4lsvypc8ym9gryq877bryjp4hs3smf-nixd-2.7.0",
+              "path": "/nix/store/rh81vlghy3sipjq6n5p8wixaqkd4b741-nixd-1.2.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/5k4lsvypc8ym9gryq877bryjp4hs3smf-nixd-2.7.0"
+          "store_path": "/nix/store/rh81vlghy3sipjq6n5p8wixaqkd4b741-nixd-1.2.3"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/rygcz7ha1cz0cjq8zvyjahi2dm75cd6h-nixd-2.7.0",
+              "path": "/nix/store/z1k2jw79lh6n204bpz5g2n8mxv438frz-nixd-1.2.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/rygcz7ha1cz0cjq8zvyjahi2dm75cd6h-nixd-2.7.0"
+          "store_path": "/nix/store/z1k2jw79lh6n204bpz5g2n8mxv438frz-nixd-1.2.3"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/mq2pz0sl6rsrjfs4xwqikdcslyz8ajk4-nixd-2.7.0",
+              "path": "/nix/store/rvlcib0ddzqqb1nndm85k4ghjm8hd4rv-nixd-1.2.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/mq2pz0sl6rsrjfs4xwqikdcslyz8ajk4-nixd-2.7.0"
+          "store_path": "/nix/store/rvlcib0ddzqqb1nndm85k4ghjm8hd4rv-nixd-1.2.3"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/2r9bwbpg29zgvp95y3c22nzjy58wmxhr-nixd-2.7.0",
+              "path": "/nix/store/kac0l2mhc3llfn69hrxzgl08c690xnbh-nixd-1.2.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/2r9bwbpg29zgvp95y3c22nzjy58wmxhr-nixd-2.7.0"
+          "store_path": "/nix/store/kac0l2mhc3llfn69hrxzgl08c690xnbh-nixd-1.2.3"
         }
       }
     },
