@@ -9,3 +9,10 @@ wheels/
 # Virtual environments
 .venv
 .devbox/
+
+*.lock
+flake.lock
+devbox.lock
+uv.lock
+package-lock.json
+pnpm-lock.yaml
