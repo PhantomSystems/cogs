@@ -6,7 +6,7 @@
     "nil@latest",
     "python@latest",
     "poetry@1.8.5",
-    "uv@0.8.23"
+    "uv@0.9.9"
   ],
   "shell": {
     "init_hook": [
