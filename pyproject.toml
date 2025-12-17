@@ -10,4 +10,8 @@ dependencies = [
     "dotenv>=0.9.9",
     "pipx>=1.8.0",
     "poetry>=2.2.1",
+    "tiktokapi>=7.2.1",
+    "tiktokresearchapi>=1.0.4",
+    "tweepy>=4.16.0",
+    "twitchapi>=4.5.0",
 ]
